@@ -1,0 +1,109 @@
+body {
+	font-family: 'Ubuntu';
+	text-align: center;
+	background: black;
+	color: white;
+}
+
+hr {
+	border: none;
+    height: 2px !important;
+    background-color: #474744; /* Modern Browsers */
+    margin-right: 37px;
+    margin-left: 15px;
+}
+
+h2 {
+	font-size: 40px !important;
+	font-family: 'Handlee', cursive !important;
+}
+.navbar {
+	background-color: white !important;
+	border-color: black !important;
+	border-width: 2px !important;
+}
+
+.icon-padding{
+	margin-top: -30px;
+	margin-left: 5px;
+	padding-top: 7px;
+}
+
+.icon {
+	height: 30px;
+}
+
+.bar-text{
+	font-size: 20px !important;
+	color: black;
+	text-decoration: none !important;
+	margin-right: 10px;
+	margin-top: 8px;
+}
+
+ul{
+	text-align: left !important;
+	font-size: 20px !important;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.item {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 1px;
+    margin-left: 15px;
+    margin-bottom: -20px;
+    margin-top: 10px;
+}
+
+.todo{
+	background-color: #d3d3d3;
+	margin-top: 0px;
+	margin-bottom: 100px;
+	border: 2px solid black;
+    border-radius: 20px;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.bor {
+	margin-top: 100px;
+}
+
+.add{
+	background-color: #d3d3d3;
+	margin-top: 10px;
+	margin-bottom: 100px;
+	border: 2px solid black;
+    border-radius: 20px;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.nospace {
+	margin-left: -4px !important;
+	margin-top:  0px !important;
+}
+
+.logo{
+	margin-bottom: 0px;
+}
+
+.form-custom{
+	width: 50% !important;
+	margin-left: 15% !important;
+	margin-right: 10px;
+}
+
+.btn-white {
+	background-color: white !important;
+	margin-left: 0px;
+	margin-top: -56px;
+	margin-left: 48%;
+}
+
+.check {
+	margin-bottom: -50px;
+	margin-left: -31px;
+}

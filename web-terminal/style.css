@@ -1,0 +1,29 @@
+body {
+	font-family: 'Ubuntu';
+	text-align: center;
+	background: black;
+	color: #00E600;
+}
+
+.command {
+	font-family: 'Ubuntu';
+	text-align: center;
+	margin-top: 225px;
+	font-size: 25px !important;
+}
+
+textarea {
+	width: 600px;
+	height: 100%;
+	font-size: 20px;
+	background: black;
+	color: #00E600;
+	border-color: black;
+	border-width: 5px;
+}
+
+input {
+	font-size: 25px !important;
+	color: #00E600;
+	background: black;
+}
